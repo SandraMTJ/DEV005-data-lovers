@@ -67,6 +67,7 @@ option {
     justify-content: center;
     display: flex;
     align-items: center;
+    padding-top: 3em;
 }
 label {
     display: none;
@@ -102,6 +103,7 @@ label {
 }
 #quantify {  
     margin-top: 1em;
+    padding-top: 2em;
     font-size: 20px;
     display: flex;
     justify-content: center;  

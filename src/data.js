@@ -1,5 +1,7 @@
 //Función para filtrar tipo de Pokémon
-export const filterTypePoke = (a,selecType) => {
+
+//Exporta función filterTypePoke como variable y toma dos parámetros: a y selecType. 
+export const filterTypePoke = (a,selecType) => { //a tiene información sobre los diferentes tipos de Pokemon, selecType string que representa el tipo de Pokemon que se quiere filtrar.
   let filterTypes = [];
   filterTypes = a.filter(pokemonTypes=> pokemonTypes.type.includes(selecType));
   return filterTypes;
