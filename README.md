@@ -19,7 +19,7 @@ El usuario puede utilizar el producto antes, durante o despues de jugar cartas P
 
 Para nuestro prototipo de baja fidelidad, primero nos enfocamos en cómo nos gustaría que se observar la información de cada personaje, definiendo si queríamos que fuera una tarjeta, diagrama, etc. Una vez definida el modelo de carta, realizamos el modelo en alta fidelidad.
 
-![Modelo de baja finalidad](src\img\bajafidelidad.jpg)
+![Modelo de baja finalidad](./src/img/bajafidelidad.jpg)
 ----
 ## Prototipo de alta fidelidad
 
@@ -27,19 +27,19 @@ Para el prototipo de alta fidelidad, realizamos un diseño de las cartas y sus c
 
 Figma -> https://www.figma.com/file/Pd7l1w3zZmts5ezXNjyNJu/Pokemon-Lovers?node-id=33%3A60&t=1XmSkOefp9FmCXSC-1
 
-![Modelo de alta finalidad](src\img\altafidelidad.jpg)
+![Modelo de alta finalidad](./src/img/altafidelidad.jpg)
 
 -----
 ## Vistas responsive
 
 Nuestro producto es adaptable tanto para vistas desktop, tablet y móvil.
 
-![Vistas responsive](src\img\Vistasresponsive.jpg)
+![Vistas responsive](./src/img/Vistasresponsive.jpg)
 
 ----
 ## Pruebas unitarias
 
-![Test](src\img\test.jpg)
+![Test](./src/img/test.jpg)
 
 ## listado de problemas que detectamos a través de tests de usabilidad:
 
